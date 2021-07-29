@@ -12,7 +12,9 @@ git log // logs of commits
 
 git log -p -int(no_of_comits) // shows the selected no of commits only
 
-git diff // compares the unmodified file to staged file
+git diff // compares the
 git diff --staged // compares the staged to the last commited file
 
 git checkout -f //roles file back to the last commit
+
+git commit -a -m "Commit messages" // directly commit without staging
