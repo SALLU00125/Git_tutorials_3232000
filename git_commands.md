@@ -18,3 +18,13 @@ git diff --staged // compares the staged to the last commited file
 git checkout -f //roles file back to the last commit
 
 git commit -a -m "Commit messages" // directly commit without staging
+
+git rm --cached 'filename.extension' // filename.extension would be removed from staging already
+
+touch .gitignore // untracked file is put in this file
+                // .gitignore -> *.extension " ignores all these extensions"
+
+
+git branch 'newBranchName' // new branch created
+git branch                // checks the available branches
+git checkout 'newBranchName' // swithced to new branch
