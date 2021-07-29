@@ -1,6 +1,6 @@
 
 
-![MSS logo](Images/MSS.png "MSS logo")
+![MSS logo](https://github.com/SALLU00125/Git_tutorials_3232000/blob/main/images/MSS.png "MSS logo")
   <span style="color:red"> _CREATED BY MSS_ </span>
 
 #  ***THE GIT STARTER GUIDE***
