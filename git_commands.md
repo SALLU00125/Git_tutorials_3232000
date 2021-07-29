@@ -1,5 +1,3 @@
-#DESCRIPTION
-
 git config --global user.email shahidbilal125@gmail.com
 git config --global user.name SALLU00125
 
@@ -14,4 +12,7 @@ git log // logs of commits
 
 git log -p -int(no_of_comits) // shows the selected no of commits only
 
-git diff // compares the 
+git diff // compares the
+git diff --staged // compares the staged to the last commited file
+
+git checkout -f //roles file back to the last commit 
