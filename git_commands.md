@@ -26,3 +26,4 @@ git rm --cached 'file name ' // the filename will be reverted back to before the
 git branch // Lists all possible branches
 git branch 'newBranchName' // new branch created
 git checkout newBranchName // got into new branch
+git checkout -b 'newbranch name //create and get into the new branch
