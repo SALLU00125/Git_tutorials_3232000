@@ -182,7 +182,7 @@ git remote set-url origin git@github.com:SALLU00125/C-coding.git
 
   ____________________
 
-# Making RSA KEYS FOR encrypt decrpyt
+# Pushing the local repo to remote repo on GIT
 <p>&nbsp;</p>
 
 git push -u origin master
