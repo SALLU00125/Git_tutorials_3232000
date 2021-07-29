@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 
-  ![diagram ](Images/lifecycle.png "Lifecycle")
+  ![diagram ](https://github.com/SALLU00125/Git_tutorials_3232000/blob/main/images/lifecycle.png "Lifecycle")
   ____________________
 
 ## Connect email and username with git
