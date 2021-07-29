@@ -20,3 +20,7 @@ git diff --staged // compares the staged to the last commited file
 git checkout -f //roles file back to the last commit
 
 git commit -a -m "Commit messages" // directly commit without staging
+
+git branch // Lists all possible branches
+git branch 'newBranchName' // new branch created
+git checkout newBranchName // got into new branch
